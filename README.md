@@ -46,7 +46,7 @@ Here is the **list of my frontend community contributions**.
 #### 2020 - October - Angular, WordPress
 
 - :writing_hand: Article: [How to Handle Multiple Click Events in Angular & RxJs](https://medium.com/ngconf/how-to-handle-double-click-events-in-angular-rxjs-e318697c9e26)
-- :muscle: Volunteering: developer in [48in48 global virtual event](https://48in48.org/global-virtual/) - building a WordPress website for nonprofit organisations
+- :muscle: Volunteering: WordPress developer at [48in48 global virtual event](https://48in48.org/global-virtual/) - building a WordPress website for nonprofit organisations
 
 
 #### 2020 - September - Angular
@@ -65,7 +65,7 @@ Here is the **list of my frontend community contributions**.
 - :writing_hand: Article: [The power of frontend](https://browserperson.medium.com/the-power-of-frontend-9f556cd8921d)
 
 
-#### 2019 - November - Angular
+#### 2019 - November - html, Angular
 
 - :writing_hand: Article: [Vanity fair — how to display the list of your Medium publications](https://browserperson.medium.com/vanity-fair-how-to-display-the-list-of-your-medium-publications-1237a0f5f98b)
 - :writing_hand: Article: [How to implement social sharing buttons](https://browserperson.medium.com/how-to-implement-social-sharing-buttons-81d2ef5cbee1)
