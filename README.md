@@ -77,6 +77,10 @@ Here is the **list of my frontend community contributions**.
 - :writing_hand: Article: [Cookie dough: IT recipe — or — UX glaze](https://browserperson.medium.com/cookie-dough-it-recipe-or-ux-glaze-a947eb1e2715)
 - :writing_hand: Article: [Cookie dough: IT recipe — or — technical ingredients](https://browserperson.medium.com/cookie-dough-it-recipe-or-technical-ingredients-cc8897be8e26)
 
+#### Oh you scrolled all the way down - thanks for the interest!
+
+I also contribute to [StackOverflow](https://stackoverflow.com/users/10832261/maria-k) from time to time...
+
 <!--
 **korneevamg/korneevamg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
