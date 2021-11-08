@@ -9,7 +9,7 @@ More on [Medium](https://browserperson.medium.com/),[Twitter](https://twitter.co
 
 Here is the **list of my frontend community contributions**. 
 
-#### 2021 - September - Angular
+#### 2021 - October - Angular
 - :writing_hand: Article: 13 tools and techniques to accelerate frontend development (soon to be published)
 
 #### 2021 - September - Angular
