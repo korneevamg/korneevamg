@@ -2,11 +2,15 @@
 
 My name is Maria Korneeva.
 
-I am a problem solver with the current focus on frontend and Angular in particular. I write code by day and prepare some talks or write blogs by night. Feel free to contact me via [Twitter](https://twitter.com/BrowserPerson) or [LinkedIn](https://www.linkedin.com/in/maria-korneeva/).
+I am a Frontend Technology Lead at Aleri with current focus on Angular. I write for [ng-conf](http://ng-conf.org) and speak now and there at tech meetups and conferences. I share my learnings from everyday coding in tweets and articles. Fun fact: I illustrate my stories myself because I like drawing.
+More on [Medium](https://browserperson.medium.com/),[Twitter](https://twitter.com/BrowserPerson) or [LinkedIn](https://www.linkedin.com/in/maria-korneeva/).
 
 ---
 
 Here is the **list of my frontend community contributions**. 
+
+#### 2021 - September - Angular
+- :writing_hand: Article: 13 tools and techniques to accelerate frontend development (soon to be published)
 
 #### 2021 - September - Angular
 - :speech_balloon: Talk at Web Rush Podcast: Episode 155: Building a Technology Radar with Maria Korneeva - [audio](https://podcasts.apple.com/gb/podcast/episode-155-building-a-technology-radar-with/id1437407176?i=1000538562117)
