@@ -9,6 +9,9 @@ More on [Medium](https://browserperson.medium.com/),[Twitter](https://twitter.co
 
 Here is the **list of my frontend community contributions**. 
 
+#### 2021 - December - Angular
+- :speech_balloon: Talk at NG-BE: Flexible Data Flow Architecture in Angular [slides](https://drive.google.com/file/d/1v5BzRXvsXXs-6oi-SHveNToLAVVl0s2Y/view?usp=sharing)
+
 #### 2021 - October - Angular
 - :writing_hand: Article: 13 tools and techniques to accelerate frontend development (soon to be published)
 
