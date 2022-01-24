@@ -7,13 +7,21 @@ More on [Medium](https://browserperson.medium.com/),[Twitter](https://twitter.co
 
 ---
 
-Here is the **list of my frontend community contributions**. 
+Here is the **list of my frontend community contributions**.
+
+#### 2022 - Upcoming
+- :writing_hand: How to proxy HTTP requests in Angular (soon to be published)
+- :writing_hand: How to survive a tech conference as a speaker (soon to be published)
+- :writing_hand: How to configure fake backend with json-server
+- :writing_hand: Configure your Angular apps with an injection token
+- :speech_balloon: Talking at Angular Africa about use cases for InjectionToken
+
 
 #### 2021 - December - Angular
 - :speech_balloon: Talk at NG-BE: Flexible Data Flow Architecture in Angular [slides](https://drive.google.com/file/d/1v5BzRXvsXXs-6oi-SHveNToLAVVl0s2Y/view?usp=sharing) and [video](https://www.youtube.com/watch?v=0J8ejSWNO5s)
 
 #### 2021 - October - Angular
-- :writing_hand: Article: 13 tools and techniques to accelerate frontend development (soon to be published)
+- :writing_hand: Article: [13 tools and techniques to accelerate frontend development](https://medium.com/ngconf/13-tools-and-techniques-to-accelerate-frontend-development-a91cac6cb170)
 
 #### 2021 - September - Angular
 - :speech_balloon: Talk at Web Rush Podcast: Episode 155: Building a Technology Radar with Maria Korneeva - [audio](https://podcasts.apple.com/gb/podcast/episode-155-building-a-technology-radar-with/id1437407176?i=1000538562117)
