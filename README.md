@@ -15,8 +15,9 @@ Here is the **list of my frontend community contributions**.
 - :writing_hand: How to configure fake backend with json-server
 - :writing_hand: Configure your Angular apps with an injection token
 - :speech_balloon: 25.02. Talking at AngularAir about tolls and methods to accelerate frontend development
-- :speech_balloon: 23-25.05. Talking about capabilies of modern web at Advanced Developer Conference
+- :speech_balloon: 08.03. "Fake it till you make it - how to mock backend responses in Angular applications" Talking at [Tech(k)now Day](https://www.techknowday.com)
 - :speech_balloon: 29.03. Talking at Angular Africa about use cases for InjectionToken
+- :speech_balloon: 23-25.05. Talking about capabilies of modern web at Advanced Developer Conference
 
 #### 2022 - February - Angular
 - :speech_balloon: Talk at GDG Berlin: [Decoupling web dev relationship](https://gdg.community.dev/events/details/google-gdg-berlin-presents-remote-gdg-berlin-2022-february-meetup/)
