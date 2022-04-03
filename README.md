@@ -16,7 +16,7 @@ Here is the **list of my frontend community contributions**.
 - :speech_balloon: 23-25.05. Talking about capabilies of modern web at Advanced Developer Conference
 
 #### 2022 - March - Angular
-- :speech_balloon: 29.03. Talking at Angular Africa about use cases for InjectionToken [slides]()
+- :speech_balloon: 29.03. Talking at Angular Africa about use cases for InjectionToken [slides](https://drive.google.com/file/d/1Ts3OQk06Fjo8ALBQDz1B4ODmcCr-ATnj/view?usp=sharing)
 - :speech_balloon: 08.03. "Fake it till you make it - how to mock backend responses in Angular applications" Talking at [Tech(k)now Day](https://www.techknowday.com)
 - :writing_hand: Article: [How to proxy HTTP requests in Angular](https://medium.com/ngconf/how-to-survive-a-tech-conference-as-a-speaker-a8db655333d)
 
