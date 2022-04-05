@@ -14,6 +14,7 @@ Here is the **list of my frontend community contributions**.
 - :writing_hand: Configure your Angular apps with an injection token
 - :writing_hand: “Fake it till you make it” or how to mock backend response in an Angular application
 - :speech_balloon: 2nd week of April Talking at GDG Glasgow
+- :speech_balloon: 02.05. Talking about tools and framework for faster frontend development in Web Rush podcast
 - :speech_balloon: 23-25.05. Talking about capabilies of modern web at Advanced Developer Conference
 - :speech_balloon: 26-29.09. Scalabale solutions with InjectionTokens at [iJS New York](https://javascript-conference.com/new-york/)
 
