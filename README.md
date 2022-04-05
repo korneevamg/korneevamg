@@ -10,10 +10,12 @@ More on [Medium](https://browserperson.medium.com/),[Twitter](https://twitter.co
 Here is the **list of my frontend community contributions**.
 
 #### 2022 - Upcoming
-- :writing_hand: How to configure fake backend with json-server
+- :writing_hand: How to proxy HTTP requests in Angular
 - :writing_hand: Configure your Angular apps with an injection token
+- :writing_hand: “Fake it till you make it” or how to mock backend response in an Angular application
 - :speech_balloon: 2nd week of April Talking at GDG Glasgow
 - :speech_balloon: 23-25.05. Talking about capabilies of modern web at Advanced Developer Conference
+- :speech_balloon: 26-29.09. Scalabale solutions with InjectionTokens at [iJS New York](https://javascript-conference.com/new-york/)
 
 #### 2022 - March - Angular
 - :speech_balloon: 29.03. Talking at Angular Africa about use cases for InjectionToken [slides](https://drive.google.com/file/d/1Ts3OQk06Fjo8ALBQDz1B4ODmcCr-ATnj/view?usp=sharing)
